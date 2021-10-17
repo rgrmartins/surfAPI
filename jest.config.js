@@ -1,4 +1,4 @@
-// config dos testes com jest
+// config dos testes com jest (Global)
 const { resolve } = require('path');
 const root = resolve(__dirname);
 module.exports = {
